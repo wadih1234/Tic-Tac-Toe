@@ -118,5 +118,5 @@ exit();
     <h4><input id="submit"  type="submit" class="btn-primary" value="Sign Up"/> <button class="btn-primary" type="reset" > Clear </button></h4>
   </form>
   
-   <br><b>&copy; M.Adeel</b> </div> 
+   <br><b>&copy; Made by Wadih</b> </div> 
 </html>
